@@ -1,0 +1,17 @@
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Application.deps.json
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Application.dll
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Application.pdb
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Domain.dll
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Infra.dll
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\ConsultaUser\Application\bin\Debug\net5.0\Infra.pdb
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.dll
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Projetos\ConsultaUser\Application\obj\Debug\net5.0\Application.pdb
