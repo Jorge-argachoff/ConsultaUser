@@ -1,5 +1,6 @@
 using Application.Interfaces;
 using Application.Services;
+using ConsultaUserApi.Extentions;
 using Domain.Entities;
 using Infra.Context;
 using Infra.Dapper;
@@ -78,17 +79,8 @@ namespace ConsultaUserApi
             });
 
             services.AddTransient(_ => new DapperDb(Configuration.GetConnectionString("SqlServerConnection")));
-            
 
-
-            //Application
-            services.AddTransient<IPessoaService, PessoaService>();            
-            services.AddTransient<IUserService, UserService>();
-            services.AddTransient<ITokenService, TokenService>();
-
-            //Infra           
-            services.AddTransient<IPessoaRepository, PessoaRepository>();
-
+            services.AddApplicationInjections().AddInfraInjections();
 
             services.AddCors();
             services.AddControllers();
